@@ -30,12 +30,12 @@ PART 1 : DATA SELECTION
 
 PART 2 : PROBLEM DEFINITION
 
-Problem type : Classifiaction (multi-class classification)
-Target Variable : Species
-Problem Statement : 
-    The goal is to develop a machine learning model that can accurately classify iris flowers into one of three species (Setosa, Versicolor, or Virginica) based on four physical measurements: sepal length, sepal width, petal length, and petal width.
-What the Model Will Learn : 
-    The model will learn the patterns and relationships between the flower measurements (features) and their corresponding species (target). 
+    Problem type : Classifiaction (multi-class classification)
+    Target Variable : Species
+    Problem Statement : 
+        The goal is to develop a machine learning model that can accurately classify iris flowers into one of three species (Setosa, Versicolor, or Virginica) based on four physical measurements: sepal length, sepal width, petal length, and petal width.
+    What the Model Will Learn : 
+        The model will learn the patterns and relationships between the flower measurements (features) and their corresponding species (target). 
 
 
 
